@@ -33,8 +33,7 @@ const Navigator = StackNavigator({
 * [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787282537)
 
 * [Getting Started with React Native](https://www.packtpub.com/application-development/getting-started-react-native?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785885181)
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
 
 
 
