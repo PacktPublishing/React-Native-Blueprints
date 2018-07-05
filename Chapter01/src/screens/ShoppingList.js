@@ -63,7 +63,7 @@ export default class ShoppingList extends React.Component {
   render() {
     return (
       <Container>
-        <Content style={styles.content}>
+        <Content>
           <List>
             {this.state.products.map(p => {
               return (
