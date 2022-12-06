@@ -11,7 +11,7 @@
 		"mobx": "^3.2.0",
 		"mobx-react": "^4.2.2",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.45.1",
+		"react-native": "0.70.6",
 		"react-native-fcm": "^7.1.0",
 		"react-native-gifted-chat": "^0.2.0",
 		"react-native-keyboard-aware-scroll-view": "^0.2.9",
