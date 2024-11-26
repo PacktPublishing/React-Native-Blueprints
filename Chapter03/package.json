@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"react": "16.0.0-beta.5",
-		"react-native": "0.49.3",
+		"react-native": "0.70.6",
 		"react-native-geocoder": "^0.4.8",
 		"react-native-maps": "^0.15.2"
 	},
